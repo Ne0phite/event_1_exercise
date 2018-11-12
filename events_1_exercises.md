@@ -6,9 +6,9 @@ _Create a separate HTML, JS, and (if necessary) CSS file for each of these exerc
 
 Fill your HTML file with some [Lorem Ipsum](https://www.lipsum.com/) text in `p` tags. Import your JS file in a `script` tag in the `head` of your HTML page. _After the page loads,_ you should send an alert to the window telling users that the page has loaded.
 
-## Exercise 2: Jack is Back!
+<!-- ## Exercise 2: Jack is Back!
 
-Copy your Jack in the Box code from the DOM 2 exercise. Instead of starting your timers when the page loads, add a button with the text "Wind Up Jack!". When the user presses this button, your timers should start.
+Copy your Jack in the Box code from the DOM 2 exercise. Instead of starting your timers when the page loads, add a button with the text "Wind Up Jack!". When the user presses this button, your timers should start. -->
 
 ## Exercise 3: Feed the Form!
 
